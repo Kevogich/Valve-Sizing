@@ -10,4 +10,10 @@ return valveVelocity
 
 Q is fluid flowrate in M3H/HR
 
+Qn is gas flowrate
+
+T1 is the inlet temparature
+
+di is the nominal valve diameter
+
 '''
